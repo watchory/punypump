@@ -1,0 +1,2 @@
+const message = "No update is available.";
+console.log(message);
