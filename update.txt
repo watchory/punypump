@@ -1,2 +1,2 @@
-const message = "No update is available.";
+const message = "No updates available.";
 console.log(message);
